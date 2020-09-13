@@ -1,5 +1,6 @@
-<footer class="footer">
-    
-</footer>
+            <footer class="footer">
 
+            </footer>
+        </div>
+    </body>
 </html>

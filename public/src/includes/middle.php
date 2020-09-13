@@ -1,5 +1,3 @@
-<body>
-    <div class="middle">
+<div class="middle">
 
-    </div>
-</body>
+</div>
